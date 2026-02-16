@@ -46,22 +46,22 @@ I love building practical applications, learning new tools, and collaborating on
 ## 📌 Featured Projects
 
 ### 🔹 FARM FRESH
-Short description of what it does and the problem it solves.  
+A web platform for moving services in Kenya, helping users easily book and manage moves.
 
-**Tech Used:** [Technologies]
+Tech Used: React, Tailwind CSS, FastAPI
 
-👉 Live Demo: [Link]  
-👉 Repository: [Link]
+[Live Demo: Fresh Movers](https://fresh-movers-kenya.vercel.app/)
+[GitHub](https://github.com/zak-dev-art/Fresh-movers-kenya)
 
 ---
 
 ### 🔹 MORINGA TECH HUB
-Short description of what it does and the problem it solves.  
+A modern platform where students can get verified information, advice, and inspiration about the tech space.
 
-**Tech Used:** [Technologies]
+Tech Used: React, Redux Toolkit, Tailwind CSS, FastAPI
 
-👉 Live Demo: [Link]  
-👉 Repository: [Link]
+[Live Demo: Moringa Tech Hub](https://moringa-tech-hub-kappa.vercel.app/)
+[Repository: GitHub](https://github.com/danielkamweru/Moringa-TechHub)
 
 ---
 
@@ -73,17 +73,19 @@ Short description of what it does and the problem it solves.
 ---
 
 ## 🌐 Connect With Me
-
-- 🌍 Portfolio: [Link]  
-- 💼 LinkedIn: [Link]  
-- 📧 Email: [Link]
+[Portfolio](https://portfolio-zac.vercel.app/)
+[Zach Ndung'u](https://www.linkedin.com/in/zach-ndung-u-24347b2ab)
+Email: zachndungu861@gmail.com
 
 ---
 
 ## ⚡ Fun Fact
 
-[Something interesting about you]
+I once spent an entire weekend debugging a single line of code… and learned patience.
 
 ---
 
-⭐️ From [Your Name]
+⭐️ From Zach Ndung'u
+Portfolio: https://portfolio-zac.vercel.app/
+ | LinkedIn: https://www.linkedin.com/in/zach-ndung-u-24347b2ab
+ | Email: zachndungu861@gmail.com
