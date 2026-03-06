@@ -68,7 +68,7 @@ Tech Used: React, Redux Toolkit, Tailwind CSS, FastAPI
 ### MERIDIAN TASK PLANNER
 Meridian is an AI-powered daily planning application that bridges the gap between long-term ambition and daily execution — it allows users to set yearly goals, break them down into time-stamped daily tasks, and track progress across both in real time. The app features a live dashboard with progress metrics, a goal tracker with visual progress indicators, a task manager where each task is linked directly to a parent goal, and an AI coaching interface powered by Claude that has full context of the user's goals and schedule, enabling it to provide personalized planning advice, prioritization suggestions, and daily accountability — all in one seamless, beautifully designed interface.
 
-[Live Demo: Meridian](\(https://meridian-gl6m.vercel.app/)
+[Live Demo: Meridian](https://meridian-gl6m.vercel.app/)
 [Repository: GitHub](https://github.com/zak-dev-art/Meridian)
 
 
