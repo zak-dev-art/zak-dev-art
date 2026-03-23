@@ -15,7 +15,6 @@ I love building practical applications, learning new tools, and collaborating on
 - 🔭 Currently working on: **an E-commerce website for beauty products**
 - 🌱 Currently learning: **HP**
 - 👯 Open to collaborate on: **Web apps, APIs, and open source**
-- 💬 Ask me about: **[Your strengths or topics]**
 - 📫 Reach me at: **https://portfolio-zac.vercel.app/**
 
 ---
@@ -26,20 +25,18 @@ I love building practical applications, learning new tools, and collaborating on
 - HTML  
 - CSS  
 - JavaScript  
-- Python  
-- [Add more]
+- Python 
 
 ### ⚛️ Frameworks & Libraries
 - React  
 - Tailwind CSS  
 - FastAPI  
-- [Add more]
+
 
 ### 🔧 Tools & Platforms
 - Git  
 - VS Code  
-- Postman  
-- [Add more]
+- Postman
 
 ---
 
